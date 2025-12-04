@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @GetMapping("/message")
     public String message() {
-        return "Hello from Docker + Jenkins + AWS EC2!";
+        return "Hello from Docker this is sohail khan";
     }
 }
